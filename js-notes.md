@@ -22,6 +22,14 @@ A carriage return can replace a ; 90% of the time
 
 ##### Primitive Data Types
 
-- string
-- number
-- boolean
+- String
+- Number
+- Boolean
+
+##### Composite Data Types
+
+- Object
+- Array
+- RegExp
+- Function
+- Date
