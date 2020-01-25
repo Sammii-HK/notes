@@ -33,3 +33,10 @@ A carriage return can replace a ; 90% of the time
 - RegExp
 - Function
 - Date
+
+##### Special Data Types 
+
+- Null
+- Undefined
+
+###### Infinite & isFinite are variables & don't need math.
